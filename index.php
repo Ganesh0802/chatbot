@@ -7,7 +7,7 @@ $arr=json_encode(array(
 	$url="https://eu136.chat-api.com/instance212194/message?token=4zue0qagqisgxzpf";
 	*/
 	$arr=json_encode(array(
-    "phone"=>"916380568195",
+    "phone"=>"91**********",
 	"body"=>"https://upload.wikimedia.org/wikipedia/ru/3/33/NatureCover2001.jpg",
     "filename"=> "NatureCover2001.jpg"
 	));

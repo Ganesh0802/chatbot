@@ -1,7 +1,7 @@
 <?php
 /*
 $arr=json_encode(array(
-    "phone"=>"916380568195",
+    "phone"=>"91**********",
 	"body"=>"Hello"
 	));
 	$url="https://eu136.chat-api.com/instance212194/message?token=4zue0qagqisgxzpf";
